@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 As a collaborative effort, together with the [Energy Networks Association (ENA)](https://www.energynetworks.org/), our purpose is to provide a place for people from the energy sector to work on projects that will benefit the industry as a whole.
+
+Please read the [Terms of Reference v1](https://github.com/Energy-Data-Science-Collaboration-Forum/.github/blob/main/Energy%20Data%20Science%20Collaboration%20Forum%20Terms%20of%20Reference%20v1.pdf) if you would like to collaborate with us.
 <!--
 
 **Here are some ideas to get you started:**
